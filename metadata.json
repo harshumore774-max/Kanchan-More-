@@ -1,0 +1,6 @@
+{
+  "name": "Nashik Grape Connect",
+  "description": "B2B grape marketplace connecting Nashik vineyard farmers, wine producers, and fruit exporters with real-time APMC mandi prices, quality certificates, and procurement tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
